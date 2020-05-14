@@ -1,0 +1,146 @@
+body{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    height: 100vh;
+}
+
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 50px;
+
+}
+
+.menu_user{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 850px;
+    height: 50px;
+    background-color: white;
+    border-radius: 0 0 5px 5px;
+}
+
+.user_index_site{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    padding-left: 10px;
+}
+
+.user_index_site a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.index_forum_news_site{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 350px;
+    height: 50px;
+}
+
+.index_forum_news_site a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 20px;
+}
+
+.user_photo_name_btn{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 200px;
+    height: 50px;
+}
+
+.photo_name_user{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+}
+
+.photo_user_profile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: white;
+}
+
+.photo_user_profile img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.name_user_profile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: white;
+}
+
+.input_output{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    margin-right: 5px;
+}
+
+.name_user_profile a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.user_page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
